@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="signup" type="id" />
+    <item name="bottom_nav_login" type="id" />
+    <item name="bottom_nav_reg" type="id" />
+    <item name="logins" type="id" />
+</resources>
